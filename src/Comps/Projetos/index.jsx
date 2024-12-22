@@ -4,7 +4,7 @@ import Projeto from './Projeto';
 const Projetos = () => {
     return (
         <>
-        <section id="Projetos" className='w-full h-auto bg-white'>
+        <section id="Projetos" className='w-full h-auto bg-white dark:bg-dark'>
         
             <div className='flex flex-row flex-wrap items-center justify-center gap-[20px] w-full t:max-w-[550px] h-auto p-[20px] mx-auto'>
 
