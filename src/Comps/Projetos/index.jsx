@@ -8,8 +8,8 @@ const Projetos = () => {
         
             <div className='flex flex-row flex-wrap items-center justify-center gap-[20px] w-full t:max-w-[550px] h-auto p-[20px] mx-auto'>
 
-                <Projeto Title='Em Breve' Paragraf='Projeto será lançado em breve, Aguarde atualizações.'/>
-
+                <Projeto Title='Tourfy' Paragraf='Simples site de viajem, A Tourfy é um projeto ficticio.' Link='https://tourfy.netlify.app'/>
+                
                 <Projeto Title='Em Breve' Paragraf='Projeto será lançado em breve, Aguarde atualizações.'/>
 
                 <Projeto Title='Em Breve' Paragraf='Projeto será lançado em breve, Aguarde atualizações.'/>
