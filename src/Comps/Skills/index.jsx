@@ -12,7 +12,7 @@ import Skill from './Skill';
 const Skills = () => {
     return (
         <>
-        <section id="Skills" className='w-full h-full bg-white'>
+        <section id="Skills" className='w-full h-auto bg-white'>
 
             <div className='flex flex-row flex-wrap items-center justify-center gap-[20px] w-full h-auto p-[20px] mx-auto t:max-w-[550px]'>
 
